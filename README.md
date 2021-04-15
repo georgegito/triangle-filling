@@ -5,7 +5,7 @@
 
 ## Run instructions
 
-Run the two demo files in Matlab
+Run the two demo files in MATLAB
 
 ```bash
 demo_flat.m
